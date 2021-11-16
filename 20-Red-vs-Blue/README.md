@@ -112,7 +112,7 @@ To finish off the attack, you uploaded a PHP reverse shell and started a meterpr
 
 Can you identify traffic from the meterpreter session?
 
-`From the picture below it looks like a lot of port 4444 is being used and as a SOC I would get to know that attackers use this ort a lot and forget to change it or disguise it.`
+`From the picture below it looks like a lot of port 4444 is being used and as a SOC I would get to know that attackers use this port a lot and forget to change it or disguise it.`
 
 ![Port 4444](IMAGE/4444.png)
 
