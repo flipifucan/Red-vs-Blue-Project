@@ -1,10 +1,7 @@
 ---
 marp: true
-author: Phillip Snell
-paginate: true
-image: 
+author: Phillip Snell 
 theme: gaia
-backgroundColor: orange
 ---
 
 ![slide 1](IMAGE/slide-1.jpg)
