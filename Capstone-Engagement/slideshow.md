@@ -56,7 +56,7 @@ theme: gaia
 
 ---
 
-![slide 14](IMAGE/slide-14.jpg)
+![slide 14](IMAGE/slide-14.jpeg)
 
 ---
 
@@ -68,23 +68,23 @@ theme: gaia
 
 ---
 
-![slide 17](IMAGE/slide-17.jpg)
+![slide 17](IMAGE/slide-17.jpeg)
 
 ---
 
-![slide 18](IMAGE/slide-18.jpg)
+![slide 18](IMAGE/slide-18.jpeg)
 
 ---
 
-![slide 19](IMAGE/slide-19.jpg)
+![slide 19](IMAGE/slide-19.jpeg)
 
 ---
 
-![slide 20](IMAGE/slide-20.jpg)
+![slide 20](IMAGE/slide-20.jpeg)
 
 ---
 
-![slide 21](IMAGE/slide-21.jpg)
+![slide 21](IMAGE/slide-21.jpeg)
 
 ---
 
